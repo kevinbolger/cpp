@@ -1,6 +1,6 @@
 //
-//  main.cpp
-//  school
+//  geomPal.cpp
+//  
 //
 //  Created by Kevin Bolger on 07/02/2018.
 //  Copyright © 2018 Kevin Bolger. All rights reserved.
